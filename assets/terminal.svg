@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="300" viewBox="0 0 820 300" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="14">
+  <defs>
+    <clipPath id="c1"><rect x="30" y="62" width="0" height="24"><animate attributeName="width" from="0" to="80" dur="0.5s" begin="0.4s" fill="freeze" calcMode="linear"/></rect></clipPath>
+    <clipPath id="c2"><rect x="30" y="86" width="0" height="24"><animate attributeName="width" from="0" to="430" dur="1.0s" begin="1.0s" fill="freeze" calcMode="linear"/></rect></clipPath>
+    <clipPath id="c3"><rect x="30" y="110" width="0" height="24"><animate attributeName="width" from="0" to="170" dur="0.6s" begin="2.2s" fill="freeze" calcMode="linear"/></rect></clipPath>
+    <clipPath id="c4"><rect x="30" y="134" width="0" height="24"><animate attributeName="width" from="0" to="490" dur="1.2s" begin="3.0s" fill="freeze" calcMode="linear"/></rect></clipPath>
+    <clipPath id="c5"><rect x="30" y="158" width="0" height="24"><animate attributeName="width" from="0" to="150" dur="0.6s" begin="4.4s" fill="freeze" calcMode="linear"/></rect></clipPath>
+    <clipPath id="c6"><rect x="30" y="182" width="0" height="24"><animate attributeName="width" from="0" to="330" dur="0.9s" begin="5.1s" fill="freeze" calcMode="linear"/></rect></clipPath>
+    <clipPath id="c7"><rect x="30" y="206" width="0" height="24"><animate attributeName="width" from="0" to="320" dur="0.9s" begin="6.1s" fill="freeze" calcMode="linear"/></rect></clipPath>
+    <clipPath id="c8"><rect x="30" y="230" width="0" height="24"><animate attributeName="width" from="0" to="445" dur="0.8s" begin="7.1s" fill="freeze" calcMode="linear"/></rect></clipPath>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="819" height="299" rx="10" fill="#1a1d24" stroke="#3a3f4b"/>
+  <path d="M0.5 10.5 a10 10 0 0 1 10-10 h799 a10 10 0 0 1 10 10 v29 h-819 z" fill="#232730" stroke="#3a3f4b" stroke-width="1"/>
+  <circle cx="22" cy="20" r="5.5" fill="#ff5f56"/>
+  <circle cx="42" cy="20" r="5.5" fill="#ffbd2e"/>
+  <circle cx="62" cy="20" r="5.5" fill="#27c93f"/>
+  <text x="410" y="25" text-anchor="middle" fill="#9aa4b2" font-size="12">veyraagent@github &#8212; zsh</text>
+
+  <g clip-path="url(#c1)"><text x="30" y="78"><tspan fill="#39d353">$ </tspan><tspan fill="#e6edf3">whoami</tspan></text></g>
+  <g clip-path="url(#c2)"><text x="30" y="102"><tspan fill="#7ee787">VeyraAgent</tspan><tspan fill="#9aa4b2"> &#8212; autonomous agent &#183; API automation &#183; RE</tspan></text></g>
+  <g clip-path="url(#c3)"><text x="30" y="126"><tspan fill="#39d353">$ </tspan><tspan fill="#e6edf3">cat ~/stack.txt</tspan></text></g>
+  <g clip-path="url(#c4)"><text x="30" y="150"><tspan fill="#79c0ff">Python</tspan><tspan fill="#9aa4b2"> &#183; </tspan><tspan fill="#d2a8ff">Go</tspan><tspan fill="#9aa4b2"> &#183; </tspan><tspan fill="#7ee787">Flutter</tspan><tspan fill="#9aa4b2"> &#183; </tspan><tspan fill="#ff7b72">Cloudflare Workers</tspan><tspan fill="#9aa4b2"> &#183; </tspan><tspan fill="#56d4dd">Docker</tspan></text></g>
+  <g clip-path="url(#c5)"><text x="30" y="174"><tspan fill="#39d353">$ </tspan><tspan fill="#e6edf3">ls ~/projects</tspan></text></g>
+  <g clip-path="url(#c6)"><text x="30" y="198"><tspan fill="#ffa657">gateways/</tspan><tspan fill="#9aa4b2">   </tspan><tspan fill="#ffa657">farms/</tspan><tspan fill="#9aa4b2">   </tspan><tspan fill="#ffa657">re-tools/</tspan></text></g>
+  <g clip-path="url(#c7)"><text x="30" y="222"><tspan fill="#ffa657">self-hosted/</tspan><tspan fill="#9aa4b2">  </tspan><tspan fill="#ffa657">automation/</tspan></text></g>
+  <g clip-path="url(#c8)"><text x="30" y="246"><tspan fill="#39d353">$ </tspan><tspan fill="#e6edf3">echo "nothing depends on someone else&#39;s uptime"</tspan></text></g>
+  <rect x="460" y="232" width="9" height="16" fill="#39d353" opacity="0">
+    <animate attributeName="opacity" values="1;1;0;0" dur="1.1s" begin="7.9s" repeatCount="indefinite"/>
+  </rect>
+</svg>

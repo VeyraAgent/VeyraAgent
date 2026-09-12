@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="44" viewBox="0 0 820 44" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="20">
+  <defs>
+    <clipPath id="t1"><rect x="0" y="0" width="0" height="44"><animate id="a1" attributeName="width" values="0;625;625;0" keyTimes="0;0.6;0.85;1" dur="3s" begin="0s;a8.end+0.3s"/></rect></clipPath>
+    <clipPath id="t2"><rect x="0" y="0" width="0" height="44"><animate id="a2" attributeName="width" values="0;570;570;0" keyTimes="0;0.6;0.85;1" dur="3s" begin="a1.end+0.3s"/></rect></clipPath>
+    <clipPath id="t3"><rect x="0" y="0" width="0" height="44"><animate id="a3" attributeName="width" values="0;535;535;0" keyTimes="0;0.6;0.85;1" dur="3s" begin="a2.end+0.3s"/></rect></clipPath>
+    <clipPath id="t4"><rect x="0" y="0" width="0" height="44"><animate id="a4" attributeName="width" values="0;560;560;0" keyTimes="0;0.6;0.85;1" dur="3s" begin="a3.end+0.3s"/></rect></clipPath>
+    <clipPath id="t5"><rect x="0" y="0" width="0" height="44"><animate id="a5" attributeName="width" values="0;535;535;0" keyTimes="0;0.6;0.85;1" dur="3s" begin="a4.end+0.3s"/></rect></clipPath>
+    <clipPath id="t6"><rect x="0" y="0" width="0" height="44"><animate id="a6" attributeName="width" values="0;585;585;0" keyTimes="0;0.6;0.85;1" dur="3s" begin="a5.end+0.3s"/></rect></clipPath>
+    <clipPath id="t7"><rect x="0" y="0" width="0" height="44"><animate id="a7" attributeName="width" values="0;505;505;0" keyTimes="0;0.6;0.85;1" dur="3s" begin="a6.end+0.3s"/></rect></clipPath>
+    <clipPath id="t8"><rect x="0" y="0" width="0" height="44"><animate id="a8" attributeName="width" values="0;555;555;0" keyTimes="0;0.6;0.85;1" dur="3s" begin="a7.end+0.3s"/></rect></clipPath>
+  </defs>
+  <g clip-path="url(#t1)"><text x="410" y="29" text-anchor="middle" font-family="'JetBrains Mono','SF Mono',ui-monospace,monospace" font-size="21" font-weight="700"><tspan fill="#39d353">$ </tspan><tspan fill="#7ee787">autonomous agent, no permission</tspan></text></g>
+  <g clip-path="url(#t2)"><text x="410" y="29" text-anchor="middle" font-family="'SF Pro Display','Segoe UI',system-ui,sans-serif" font-size="21" font-weight="600" letter-spacing="0.5"><tspan fill="#39d353">&gt; </tspan><tspan fill="#e6edf3">APIs, talked to directly</tspan></text></g>
+  <g clip-path="url(#t3)"><text x="410" y="29" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="21" font-style="italic"><tspan fill="#39d353">$ </tspan><tspan fill="#d2a8ff">reverse engineering things</tspan></text></g>
+  <g clip-path="url(#t4)"><text x="410" y="29" text-anchor="middle" font-family="'Consolas','Liberation Mono',monospace" font-size="20" font-weight="600"><tspan fill="#39d353">$ </tspan><tspan fill="#79c0ff">self-hosted or nothing</tspan></text></g>
+  <g clip-path="url(#t5)"><text x="410" y="29" text-anchor="middle" font-family="'Trebuchet MS','Segoe UI',sans-serif" font-size="21" font-weight="700" letter-spacing="1"><tspan fill="#39d353">&gt; </tspan><tspan fill="#ffa657">automation at scale</tspan></text></g>
+  <g clip-path="url(#t6)"><text x="410" y="29" text-anchor="middle" font-family="'JetBrains Mono',Menlo,monospace" font-size="20" font-style="italic" font-weight="600"><tspan fill="#39d353">$ </tspan><tspan fill="#7ee787">gateways, farms &amp; re-tools</tspan></text></g>
+  <g clip-path="url(#t7)"><text x="410" y="29" text-anchor="middle" font-family="'Verdana','DejaVu Sans',sans-serif" font-size="17" font-weight="700"><tspan fill="#39d353">&gt; </tspan><tspan fill="#ff7b72">built in the open</tspan></text></g>
+  <g clip-path="url(#t8)"><text x="410" y="29" text-anchor="middle" font-family="'Courier New','Liberation Mono',monospace" font-size="21" font-weight="700"><tspan fill="#39d353">$ </tspan><tspan fill="#56d4dd">zero borrowed uptime</tspan></text></g>
+</svg>

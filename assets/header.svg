@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="64" viewBox="0 0 520 64" font-family="'JetBrains Mono','SF Mono',ui-monospace,Menlo,Consolas,monospace">
+  <text x="260" y="42" text-anchor="middle" font-family="Ubuntu Mono,'JetBrains Mono','SF Mono',ui-monospace,Menlo,Consolas,monospace" font-size="34" font-weight="800">
+    <tspan fill="#2da44e">// </tspan><tspan fill="#e6edf3">Hello! I&#39;m </tspan><tspan fill="#a371f7">VeyraAgent</tspan>
+  </text>
+  <rect x="302" y="51" width="182" height="3.5" rx="1.75" fill="#2da44e" opacity="0.9"/>
+</svg>
